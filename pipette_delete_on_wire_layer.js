@@ -3,7 +3,7 @@ const METADATA = {
 	website: "https://shapez.mod.io/pipette-and-delete-on-wires-layer",
 	author: "nabbydude",
 	name: "Pipette and Delete on Wire Layer",
-	version: "1.0.0",
+	version: "1.0.1",
 	id: "wire-pipette-delete",
 	description: "Allows pipette and delete of belt-layer buildings with wires pins from wires layer.",
 	minimumGameVersion: ">=1.5.0",
